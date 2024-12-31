@@ -8,14 +8,19 @@ Ein Algorithmus zur effizienten Platzierung von Paketen in einem definierten Rau
 - Visualisiert den belegten Raum.
 
 ## Installation
-1. Repository klonen:
-   ```bash
-   git clone https://github.com/JonasDaub/RucksackProblemPython.git
-   cd RucksackProblemPython
-2. Benötigte Bibliotheken installieren
-   ```bash
-   pip install numpy matplotlib
+Repository klonen:
+```bash
+git clone https://github.com/JonasDaub/RucksackProblemPython.git
+cd RucksackProblemPython
+```
+Benötigte Bibliotheken installieren
+```bash
+pip install numpy matplotlib
+```
 ## Ausführung
   Skript starten:
   ```bash
   python main.py
+  ```
+## Autor
+   Jonas Daub
